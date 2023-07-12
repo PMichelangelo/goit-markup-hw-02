@@ -101,7 +101,6 @@ h2 {
 }
 
 .welcome_section_h1 {
-  width: 100%;
   text-align: center;
   color: white;
   font-size: 56px;
@@ -158,8 +157,6 @@ h2 {
 
 /**Section_4**/
 .section4 {
-  width: 100%;
-  height: 100%;
   background: #f4f4fd;
 }
 
@@ -195,8 +192,6 @@ h2 {
 
 /**Footer**/
 .footer {
-  width: 100%;
-  height: 100%;
   background: var(--footer-background-color);
 }
 
