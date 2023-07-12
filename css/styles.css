@@ -192,7 +192,7 @@ h2 {
 
 /**Footer**/
 .footer {
-  background: var(--footer-background-color);
+  background-color: var(--footer-background-color);
 }
 
 .footer_p {
