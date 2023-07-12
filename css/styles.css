@@ -1,0 +1,174 @@
+/**General**/
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+}
+
+h3 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+}
+
+p {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+footer {
+  width: 100%;
+  height: 100%;
+  background: #2e2f42;
+}
+
+footer > p {
+  color: #f4f4fd;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+/**Logo**/
+
+.web_logo {
+  color: #4d5ae5;
+  font-size: 18px;
+  font-family: Raleway;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+}
+
+.studio_logo {
+  color: #2e2f42;
+  font-size: 18px;
+  font-family: Raleway;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+}
+
+.studio_logo_footer {
+  color: #f4f4fd;
+  font-size: 18px;
+  font-family: Raleway;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+}
+
+/**Header**/
+
+.header-nav-links {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+.header-nav-address {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  font-style: normal;
+}
+
+/**Main**/
+
+.welcome_section {
+  background-color: #2e2f42;
+}
+
+.welcome_section_h1 {
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
+}
+
+.welcome_section_button {
+  background-color: #4d5ae5;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+}
+
+.section3_h2 {
+  text-align: center;
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+}
+
+.section4 {
+  width: 100%;
+  height: 100%;
+  background: #f4f4fd;
+}
+
+.section4_h2 {
+  text-align: center;
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+}
+
+.section4_li {
+  background-color: white;
+}
+
+/**Portfolio**/
+
+.portfolio-section1-button {
+  background: #f4f4fd;
+  color: #4d5ae5;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+}
+
+.portfolio-section1-button:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
