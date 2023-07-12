@@ -1,6 +1,15 @@
 /**General**/
+
+:root {
+  --primary-font: "Roboto", sans-serif;
+  --primary-text-color: #434455;
+  --primary-white-color: #ffffff;
+}
+
 body {
   font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 h2 {
@@ -20,7 +29,6 @@ h3 {
 }
 
 p {
-  color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -152,7 +160,7 @@ footer > p {
 }
 
 .section4_li {
-  background-color: white;
+  background-color: var(--primary-white-color);
 }
 
 /**Portfolio**/
@@ -168,6 +176,6 @@ footer > p {
 }
 
 .portfolio-section1-button:hover {
-  color: #ffffff;
+  color: var(--primary-white-color);
   background-color: #404bbf;
 }
