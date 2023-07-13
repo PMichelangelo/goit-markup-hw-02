@@ -128,7 +128,7 @@ h2 {
 
 /**Section_2**/
 
-.section2_title {
+.section_two_title {
   font-weight: 500;
   color: #2e2f42;
   font-size: 20px;
@@ -136,7 +136,7 @@ h2 {
   letter-spacing: 0.02em;
 }
 
-.section2_text {
+.sectio_two_text {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -145,7 +145,7 @@ h2 {
 
 /**Section_3**/
 
-.section3_title {
+.section_three_title {
   text-align: center;
   color: #2e2f42;
   font-size: 36px;
@@ -156,11 +156,11 @@ h2 {
 }
 
 /**Section_4**/
-.section4 {
+.section_four {
   background: #f4f4fd;
 }
 
-.section4_main_title {
+.section_four_main_title {
   text-align: center;
   color: #2e2f42;
   font-size: 36px;
@@ -170,7 +170,7 @@ h2 {
   letter-spacing: 0.02em;
 }
 
-.section4_member {
+.section_four_member {
   font-weight: 500;
   color: #2e2f42;
   font-size: 20px;
@@ -178,7 +178,7 @@ h2 {
   letter-spacing: 0.02em;
 }
 
-.section4_text {
+.section_four_text {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -186,7 +186,7 @@ h2 {
   color: #434455;
 }
 
-.section4_list {
+.section_four_list {
   background-color: var(--primary-white-color);
 }
 
