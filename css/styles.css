@@ -205,17 +205,38 @@ h2 {
 
 /**Portfolio**/
 
-.portfolio-section1-button {
+.portfolio-section-button {
   background: #f4f4fd;
-  color: #4d5ae5;
+  color: var(--primary-logo-color);
+  background-color: var(--footer-text-color);
   font-size: 16px;
-  font-weight: 600;
-  line-height: 24px;
-  letter-spacing: 0.64px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 
-.portfolio-section1-button:hover {
-  color: var(--primary-white-color);
+.portfolio-section-button:hover :focus {
+  color: #ffffff;
   background-color: #404bbf;
+}
+
+.portfolio-section-button:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
+.portfolio-list-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--footer-background-color);
+}
+
+.portfolio-list-desc {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--primary-text-color);
 }
