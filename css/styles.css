@@ -136,7 +136,7 @@ h2 {
   letter-spacing: 0.02em;
 }
 
-.sectio_two_text {
+.section_two_text {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -206,6 +206,7 @@ h2 {
 /**Portfolio**/
 
 .portfolio-section-button {
+  font-family: "Roboto", sans-serif;
   background: #f4f4fd;
   color: var(--primary-logo-color);
   background-color: var(--footer-text-color);
@@ -216,7 +217,7 @@ h2 {
   cursor: pointer;
 }
 
-.portfolio-section-button:hover :focus {
+.portfolio-section-button:hover {
   color: #ffffff;
   background-color: #404bbf;
 }
