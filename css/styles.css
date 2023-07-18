@@ -160,7 +160,6 @@ h2 {
 .section_four_main_title {
   text-align: center;
   color: #2e2f42;
-  font-weight: 500;
   font-size: 36px;
   text-transform: capitalize;
   line-height: 1.11;
@@ -169,6 +168,7 @@ h2 {
 
 .section_four_member {
   color: #2e2f42;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
